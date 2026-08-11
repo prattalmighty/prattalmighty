@@ -16,10 +16,6 @@ Splunk | Security Onion | Azure | Git/GitHub
 Featured Projects
 
 * [Home Network Infrastructure](https://github.com/prattalmighty/home-network)
-* Custom PC Build
-* Cybersecurity Boot Camp
-* IT Troubleshooting & Documentation
-* Security & Networking Labs
 
 Education & Training
 
