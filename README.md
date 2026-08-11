@@ -1,12 +1,31 @@
-Hi, I'm Ryan Pratt.
+Ryan Pratt | IT Support & Cybersecurity Portfolio
 
-I'm transitioning into IT and cybersecurity after a 13-year career at TELUS supporting enterprise systems, retail operations, user training, and cross-functional technology initiatives.
+Professional Summary
 
-To strengthen my technical skills, I completed the Rice University Cybersecurity Boot Camp (99.6% final average), where I completed hands-on labs in Windows administration, Active Directory, Linux, networking, Azure, Splunk, digital forensics, and penetration testing. I also maintain a home lab where I designed and built a structured Cat6A network, deployed a Pi-hole DNS solution, and continue expanding my hands-on experience with enterprise technologies.
+IT Support professional with enterprise technical support experience,
+recent cybersecurity training, and hands-on experience designing,
+building, troubleshooting, and documenting network infrastructure.
 
-This repository documents my projects, labs, and ongoing learning
+Technical Skills
 
-<!---
-prattalmighty/prattalmighty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Windows | Linux | Active Directory | PowerShell
+TCP/IP | DNS | DHCP | Wireshark | Networking
+ServiceNow | Troubleshooting | End User Support
+Splunk | Security Onion | Azure | Git/GitHub
+
+Featured Projects
+
+├── Home Network Infrastructure
+├── Custom PC Build
+├── Cybersecurity Boot Camp
+├── IT Troubleshooting & Documentation
+└── Security & Networking Labs
+
+Education & Training
+
+Rice University Cybersecurity Boot Camp
+TryHackMe
+Georgian College
+
+Contact
+[LinkedIn](https://www.linkedin.com/in/ryan-e-pratt/)
